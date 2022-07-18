@@ -1,0 +1,16 @@
+C:\Users\suwichan\source\repos\ArrayListApp\ArrayListApp\bin\Debug\ArrayListApp.exe.config
+C:\Users\suwichan\source\repos\ArrayListApp\ArrayListApp\bin\Debug\ArrayListApp.exe
+C:\Users\suwichan\source\repos\ArrayListApp\ArrayListApp\bin\Debug\ArrayListApp.pdb
+C:\Users\suwichan\source\repos\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.csproj.AssemblyReference.cache
+C:\Users\suwichan\source\repos\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\suwichan\source\repos\ArrayListApp\ArrayListApp\obj\Debug\MainWindow.g.cs
+C:\Users\suwichan\source\repos\ArrayListApp\ArrayListApp\obj\Debug\App.g.cs
+C:\Users\suwichan\source\repos\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp_MarkupCompile.cache
+C:\Users\suwichan\source\repos\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp_MarkupCompile.lref
+C:\Users\suwichan\source\repos\ArrayListApp\ArrayListApp\obj\Debug\MainWindow.baml
+C:\Users\suwichan\source\repos\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.g.resources
+C:\Users\suwichan\source\repos\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.Properties.Resources.resources
+C:\Users\suwichan\source\repos\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.csproj.GenerateResource.cache
+C:\Users\suwichan\source\repos\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.csproj.CoreCompileInputs.cache
+C:\Users\suwichan\source\repos\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.exe
+C:\Users\suwichan\source\repos\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.pdb
